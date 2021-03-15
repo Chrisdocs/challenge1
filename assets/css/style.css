@@ -73,7 +73,7 @@ p {
 .content {
     width: 75%;
     display: inline-block;
-    margin-left: 20px;
+    margin: 20px;
 }
 
 article {
@@ -101,8 +101,8 @@ article {
 }
 
 .benefits {
-    margin-right: 20px;
-    padding: 20px;
+    margin: 20px;
+    padding: 40px 10px 40px 10px;
     clear: both;
     float: right;
     width: 20%;
@@ -116,15 +116,22 @@ div .benefit {
     color: #ffffff;
 }
 
+div p {
+    color: white;
+    padding: 20px;
+    font-size: 18px;
+}
+
 .benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.benefit h3 {
+.benefit h2 {
     margin-bottom: 10px;
     text-align: center;
+    color: white;
 }
 
 .footer {
@@ -136,4 +143,9 @@ div .benefit {
 
 .footer h2 {
     font-size: 20px;
+    padding: 0;
+}
+
+.footer p {
+    color: black;
 }
