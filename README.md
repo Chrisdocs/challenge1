@@ -37,4 +37,4 @@ Website functions as intended at full resolution.  Structure may become disorgan
 Credits
 Chris Wolfe
 
-![Horiseon (1)](https://user-images.githubusercontent.com/77463550/111892293-1f81d900-89c8-11eb-80f4-9fbc08b71d20.png)
+![Horiseon (2)](https://user-images.githubusercontent.com/77463550/111920611-eeec7e80-8a5d-11eb-9234-c9540093d621.png)
