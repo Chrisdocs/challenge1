@@ -1,3 +1,4 @@
+/* Universal rules*/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -7,6 +8,8 @@
 body {
     background-color: #d9dcd6;
 }
+
+/*header*/
 
 header {
     padding: 20px;
@@ -43,9 +46,7 @@ a {
     text-decoration: none;
 }
 
-p {
-    font-size: 16px;
-}
+/* Hero */
 
 .hero-image {
     height: 100%;
@@ -54,6 +55,8 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+/* Services */
 
 .float-right {
     padding: 35px;
@@ -71,10 +74,6 @@ p {
     width: 75%;
     display: inline-block;
     margin: 20px;
-}
-
-article {
-    display: inline-block;
 }
 
 .services {
@@ -95,6 +94,12 @@ article {
     margin-bottom: 20px;
     font-size: 36px;
     text-align: left;
+}
+
+/* Benefits */
+
+article {
+    display: inline-block;
 }
 
 .benefits {
@@ -130,6 +135,8 @@ div p {
     text-align: center;
     color: white;
 }
+
+/* Footer */
 
 .footer {
     padding: 30px;
