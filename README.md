@@ -1,7 +1,8 @@
 # Code Refactor Starter Code
 
 Project: 
-Horiseon
+Horiseon; 
+https://chrisdocs.github.io/challenge1/
 
 Requirements:
 HTML, CSS
@@ -35,3 +36,5 @@ Website functions as intended at full resolution.  Structure may become disorgan
 
 Credits
 Chris Wolfe
+
+![Horiseon (1)](https://user-images.githubusercontent.com/77463550/111892293-1f81d900-89c8-11eb-80f4-9fbc08b71d20.png)
